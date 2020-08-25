@@ -31,4 +31,4 @@ Please enter desired operation e.g. + - * /: + <br>
 Would you like to perform another calculation(y/n)?:n <br>
 Goodbye <br>
 
-
+[![Run on Repl.it](https://repl.it/badge/github/juden101/SimpleCalculatorJava)](https://repl.it/github/juden101/SimpleCalculatorJava)
